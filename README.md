@@ -1,2 +1,2 @@
 # OSSD_Math
-Review Materials for OSSD Grade 12 Math
+Review Materials for Advanced Functions (MHF4U) and Calculus and Vectors (MCV4U), building with LaTeX.
